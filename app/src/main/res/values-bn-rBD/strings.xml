@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">বিএমআই ক্যালকুলেটর</string>
+    <string name="height_cm">উচ্চতা (সেমি)</string>
+    <string name="bmi_calculator">বিএমআই ক্যালকুলেটর</string>
+    <string name="result">ফলাফল</string>
+    <string name="calculate_bmi">" বিএমআই গণনা করুন"</string>
+    <string name="weight_kg">ওজন(কেজি)</string>
+</resources>
